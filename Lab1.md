@@ -1,8 +1,9 @@
 # Aloha
 
-Checks 1 & 2: GitHub account created. Yay. It only took most of the lab time today. \n
-Check 3: Read & Understood (1:35pm) \n
-Check 4: Read. 1) Don't assume someone knows all the technical jargon out there. 2) 
+Checks 1 & 2: GitHub account created. Yay. It only took most of the lab time today.
+Check 3: Read & Understood (1:35pm)
+Check 4: Read. 1) Don't assume someone knows all the technical jargon out there. 2) Try to refrain from verbal abuse...toward
+questioner or another person answering the question.
 Check 5: ls = list files in current directory. cd = to change/go into files or directories. mkdir = creates a new directory.
 Check 6:
 Check 7:
