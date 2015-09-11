@@ -5,10 +5,10 @@ to let people know they can do things like modify the available source code, and
 of keeping any released modifications to the software free also. Developers can pick and choose how restrictive they want to
 be by choosing a license.
 
-Check 3:
+Check 3: Why someone shouldn't use a project with a specific license?
 
 The absense of a license results in a copyright of the material by law. In order to use a project, one would have to contact the
 author to obtain a written license. If this isn't done, they could be sued on the grounds of infringing on copyrights.
 
-Check 4:
+Check 4: Gopher vs HTTP...
 
