@@ -7,4 +7,8 @@ be by choosing a license.
 
 Check 3:
 
+The absense of a license results in a copyright of the material by law. In order to use a project, one would have to contact the
+author to obtain a written license. If this isn't done, they could be sued on the grounds of infringing on copyrights.
+
+Check 4:
 
