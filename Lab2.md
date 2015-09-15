@@ -16,4 +16,4 @@ I agree with the claims for the most part. HTTP appealed more to the consumers o
 
 Check 5: Android Apache License 2.0
 
-One thing about the Apache License
+One thing about the Apache License is that it has a section with trademark protection, so the little Android man is trademarked/protected. 
