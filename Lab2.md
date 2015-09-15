@@ -12,3 +12,8 @@ author to obtain a written license. If this isn't done, they could be sued on th
 
 Check 4: Gopher vs HTTP...
 
+I agree with the claims for the most part. HTTP appealed more to the consumers overall and was faster keeping up to user expectations.
+
+Check 5: Android Apache License 2.0
+
+One thing about the Apache License
