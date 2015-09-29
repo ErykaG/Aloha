@@ -12,4 +12,3 @@ From this lab I have learned that documentation is important because it allows u
 and giving them the ability to contact the creators about errors is extremely beneficial. Even though I have never
 looked at the documentation of anything before this, I can see how important it is for developers/creators and anyone who
 uses the program/website/whatever it is.
-
